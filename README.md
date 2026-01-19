@@ -21,14 +21,6 @@ A modern, interactive To-Do application built with **React**, featuring drag-and
 
 ---
 
-## Screenshots
-
-*(Add your screenshots here)*
-
-![Screenshot 1](link-to-screenshot)
-![Screenshot 2](link-to-screenshot)
-
----
 
 ## Installation
 
